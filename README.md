@@ -51,10 +51,6 @@ It is particularly useful for tracking and counting repetitions during exercises
 - You can adjust the angle thresholds for curl detection by modifying the `angle` variable in the script.
 - Feel free to explore and customize the code to fit your specific use case or integrate it into other applications.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - This project was inspired by the Mediapipe Pose Detection and aims to provide a practical application for exercise tracking and counting.
